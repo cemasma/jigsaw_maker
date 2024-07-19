@@ -1,0 +1,10 @@
+[package]
+name = "jigsaw_maker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.5.9"
+image = "0.25.1"
+imageproc = "0.25.0"
+rand = "0.8.5"
